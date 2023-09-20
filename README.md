@@ -1,1 +1,1 @@
-Some small lessons while in Nucamp most of which is just fundamental python stuff
+Some small lessons while in Nucamp fundamental python stuff
